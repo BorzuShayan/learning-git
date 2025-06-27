@@ -1,1 +1,3 @@
 Created feature-1.txt
+Line 1
+Line 2
