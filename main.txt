@@ -1,3 +1,4 @@
 File created
 Line One. Edited
 Line Two. Edited from another directory
+Line Three.
